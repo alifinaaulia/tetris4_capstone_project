@@ -1,6 +1,6 @@
-altair==4.1.0
-folium==0.12.1
-numpy==1.21.3
-pandas==1.3.3
-streamlit==1.7.0
-streamlit-folium==0.12.0
+altair
+folium
+numpy
+pandas
+streamlit
+streamlit-folium
